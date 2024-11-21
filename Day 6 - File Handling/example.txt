@@ -1,0 +1,3 @@
+
+A New line in Read Write Mode.ndling in Python
+Apending a new line to the file.
